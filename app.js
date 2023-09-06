@@ -24,3 +24,7 @@ console.log (" A média do João é")
 media = (nota1 + nota2 + nota2 + nota4)/4
 
 console.log(media)
+
+nome = prompt("Informe seu nome")
+alert("Olá " + nome + " sua média é " + media)
+
